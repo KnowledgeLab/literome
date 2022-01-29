@@ -13,4 +13,4 @@ The view of the dataset:
 |  100079 |          2 | 15:18:GH1                   | 3:4:TRH                              | Positive_regulation | In ten , [TRH] , 500 microgram given intravenously , induced a rise in plasma <growth hormone (GH)> level , while in eight patients it induced a rise in plasma levels of FSH or LH or both .                                                                 |
 
 
-This dataset was used in [Belikov et al.](./belikov2020.bib) titled "Computational identification of robust scientific claims in literature".
+This dataset was used in [Belikov et al.](./belikov2020.bib) titled "Prediction of robust scientific facts from literature".
